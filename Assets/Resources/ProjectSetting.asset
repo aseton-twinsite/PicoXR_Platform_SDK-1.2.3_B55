@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd20ebefbb5b94e48b9d11829162f008, type: 3}
   m_Name: ProjectSetting
   m_EditorClassIdentifier: 
-  usecontentprotect: 0
+  useContentProtect: 0
